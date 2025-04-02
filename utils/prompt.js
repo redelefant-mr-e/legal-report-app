@@ -42,6 +42,7 @@ Beispiel: „Nachverhandlung erforderlich“, „Rechtsgutachten einzuholen“, 
 - Verwende Fachterminologie. Verweise auf konkrete Absätze.
 - Sprache: nüchtern, analysierend, intern-professionell
 
+
 ---
 
 ## 📚 Gesetzliche Grundlage: Artikel 194 CRR
@@ -76,4 +77,11 @@ c) der Sicherungsgeber die Kriterien des Absatzes 5 erfüllt.
 ---
 
 Nutze diesen Gesetzestext und die Struktur, um den nachfolgenden Vertragstext professionell zu prüfen.
+
+Bitte prüfe auch Art. 194 Abs. 4–9 vollständig.  
+Triff ein verbindliches Gesamturteil: „konform“, „teilweise konform“ oder „nicht konform“.  
+Bewerte Bürgschaften nur als anerkennungsfähig, wenn sie explizit in Art. 201–204 CRR genannt sind.
+
+
+
 `;
